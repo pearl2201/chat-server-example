@@ -1,0 +1,9 @@
+[package]
+name = "keylogger"
+version = "0.1.0"
+authors = ["Anh Ngoc <nguyenanhngoc.ftu@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+libc = "0.2.51"
+bufstream = "0.1"
